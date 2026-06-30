@@ -1,2 +1,3 @@
 # MyProjects
-This is my first GitHub demo project. 
+This is my first GitHub demo repository. 
+Author - Samiddha Ganguly 
