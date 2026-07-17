@@ -1,6 +1,6 @@
 # custom pallyndrome program for python program (string version)
 def string_pallyndrome_checker(string_custom):
-    d = list(string_custom)
+    d = list(string_custom.lower())
     e =list( reversed(d))
     if d == e:
         print("the string given by the user is a palyndrome")
